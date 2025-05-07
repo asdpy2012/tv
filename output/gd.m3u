@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="翡翠台HD" tvg-logo="https://live.fanmingming.cn/tv/翡翠台HD.png",翡翠台HD
+#EXTINF:-1 tvg-name="翡翠台HD" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台HD
 http://qjrhc.jydjd.top:2911/udp/224.1.100.121:11111
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",翡翠台
 http://qjrhc.jydjd.top:2911/udp/224.1.100.1:11111
-#EXTINF:-1 tvg-name="明珠台HD" tvg-logo="https://live.fanmingming.cn/tv/明珠台HD.png",明珠台HD
+#EXTINF:-1 tvg-name="明珠台HD" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png",明珠台HD
 http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://live.fanmingming.cn/tv/明珠台.png",明珠台
 http://qjrhc.jydjd.top:2911/udp/224.1.100.2:11111
@@ -39,7 +39,7 @@ http://qjrhc.jydjd.top:2911/udp/224.1.100.38:11111
 http://qjrhc.jydjd.top:2911/udp/224.1.100.105:11111
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://live.fanmingming.cn/tv/广州影视.png",广州影视
 http://qjrhc.jydjd.top:2911/udp/224.1.100.88:11111
-#EXTINF:-1 tvg-name="广州法治HD" tvg-logo="https://live.fanmingming.cn/tv/广州法治HD.png",广州法治HD
+#EXTINF:-1 tvg-name="广州法治HD" tvg-logo="https://live.fanmingming.cn/tv/广州法治.png",广州法治HD
 http://qjrhc.jydjd.top:2911/udp/224.1.100.17:11111
 #EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.cn/tv/广州法治.png",广州法治
 http://qjrhc.jydjd.top:2911/udp/224.1.100.18:11111
